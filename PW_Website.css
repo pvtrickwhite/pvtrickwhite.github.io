@@ -1,6 +1,7 @@
 @charset "UTF-8";
-
-.footer {
+}.footer {
   position: fixed;
+  top: auto;
   bottom: 0%;
+ 
 
