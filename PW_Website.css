@@ -1,16 +1,15 @@
 @charset "UTF-8";
-.footer {
-  position: fixed;
-  top: auto;
-  bottom: 0%;
-  left: 0%;
-  right: 0%;
-}
-
+.parent {
+  position: relative;
+  }
 .PW {
 	position: fixed;
-		top:0%;
-		bottom: auto;
-		left: 0%;
-		right: 0%;
+	width: 100%;
+	top: 0;
 }
+.footer {
+  position: fixed;
+	width: 100%;
+  bottom: 0;
+}
+
