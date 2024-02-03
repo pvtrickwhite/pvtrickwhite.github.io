@@ -17,6 +17,9 @@ bottom: 0;
 }
 
 .video {
-	padding-top: 50%;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
 }
 
