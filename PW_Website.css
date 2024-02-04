@@ -17,5 +17,6 @@ bottom: 0;
 }
 .video {
 position: fixed;
+align-content: center
 }
 
