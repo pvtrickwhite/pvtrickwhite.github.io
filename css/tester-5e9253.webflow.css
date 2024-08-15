@@ -20,7 +20,7 @@
 
 body {
   color: #333;
-  background-color: #2d5a8d;
+  background-color: #C82929;
   font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 20px;
@@ -34,7 +34,7 @@ body {
 }
 
 .body {
-  background-color: #2d5a8d;
+  background-color: #C82929;
 }
 
 .quick-stack {
@@ -85,7 +85,7 @@ body {
 }
 
 .paragraph-2 {
-  color: #fff;
+  color: #000000;
   align-self: flex-start;
   font-size: 19px;
   line-height: 24px;
@@ -147,7 +147,7 @@ body {
 }
 
 .link, .link-2, .link-3 {
-  color: #fff;
+  color: #000000;
 }
 
 .text-span, .text-span-2, .text-span-3 {
@@ -189,7 +189,7 @@ body {
 }
 
 .text-mobile {
-  color: #fff;
+  color: #000000;
   align-self: flex-start;
   font-size: 19px;
   line-height: 24px;
@@ -350,11 +350,11 @@ body {
   }
 
   .link-4 {
-    color: #e2cfcf;
+    color: #000000;
   }
 
   .link-4.w--current {
-    color: #fff;
+    color: #000000;
   }
 }
 
